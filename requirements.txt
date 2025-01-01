@@ -1,4 +1,5 @@
 pandas
 matplotlib
 mlxtend
+seaborn
 -e .
